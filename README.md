@@ -12,13 +12,14 @@ Useful tools:
 - ChefDK: https://docs.chef.io/install_dk.html 
 
 ## Rough Agenda
-10:00 Introduction and prerequisites
-10:15 Jenkins Workshop - Justin
-11:30 Docker Workshop - Elton
-12:00 Lunch
-13:30 Chef Workshop – Kimball
-15:00 Special Requests
-16:00 Drinks 
+
+- 10:00 Introduction and prerequisites
+- 10:15 Jenkins Workshop - Justin
+- 11:30 Docker Workshop - Elton
+- 12:00 Lunch
+- 13:30 Chef Workshop – Kimball
+- 15:00 Special Requests
+- 16:00 Drinks 
 
 ## Lab Links
 Lots of labs: https://microsoft.github.io/PartsUnlimitedMRP/

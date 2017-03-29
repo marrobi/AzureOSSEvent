@@ -1,5 +1,7 @@
 # OSS On Azure Day @ CodeNode
 
+Slides: [March 2017](Slides March 2017.pdf)
+
 ## Prerequisites
 Useful tools:
 - Azure CLI 2.0: https://docs.microsoft.com/en-us/cli/azure/install-azure-cli 

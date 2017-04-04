@@ -1,6 +1,6 @@
 # OSS On Azure Day @ CodeNode
 
-Slides: [March 2017](Slides March 2017.pdf)
+Slides: [March 2017](Intro_Slides_March_2017.pdf)
 
 ## Prerequisites
 Useful tools:
@@ -13,6 +13,23 @@ Useful tools:
 - Docker CE: https://store.docker.com/search?offering=community&type=edition 
 - ChefDK: https://docs.chef.io/install_dk.html 
 
+## Lab Links
+Lots of labs: https://microsoft.github.io/PartsUnlimitedMRP/
+Jenkins:
+1. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-10-Oth-prereq.html
+2. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-11-Oth-CI.html
+3. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-12-Oth-CD.html
+
+Docker:
+
+Please note this is a custom fork:
+
+1. Dockerize: https://github.com/marrobi/PartsUnlimitedMRP/blob/master/docs/HOL_Docker/README.md
+2. CI/CD with ACS, ACR, VSTS and Docker: https://github.com/marrobi/PartsUnlimitedMRP/blob/master/docs/HOL_Docker_Deploy_ACR_ACS/README.md
+
+Chef:
+[Download Slides](Chef_Azure_Workshop.pdf)
+
 ## Rough Agenda
 
 - 10:00 Introduction and prerequisites
@@ -22,19 +39,3 @@ Useful tools:
 - 13:30 Chef Workshop – Kimball
 - 15:00 Special Requests
 - 16:00 Drinks 
-
-## Lab Links
-Lots of labs: https://microsoft.github.io/PartsUnlimitedMRP/
-Jenkins:
-1. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-10-Oth-prereq.html
-2. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-11-Oth-CI.html
-3. https://microsoft.github.io/PartsUnlimitedMRP/fundoth/fund-12-Oth-CD.html
-
-Docker:
-Custom fork!
-1. https://github.com/marrobi/PartsUnlimitedMRP/blob/master/docs/HOL_Docker/README.md
-2. https://github.com/marrobi/PartsUnlimitedMRP/blob/master/docs/HOL_Docker_Deploy_ACR_ACS/README.md
-
-Chef:
-Kimball to demo... similar to 
-
